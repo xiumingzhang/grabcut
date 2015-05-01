@@ -20,6 +20,14 @@ in MATLAB, and it *excludes* border matting and user editing. That is, it implem
 
 ![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1_cut.png)
 
+![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test2.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test2_cut.png)
+
+![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test3.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test3_cut.png)
+
+![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test4.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test4_cut.png)
+
+![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test5.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test5_cut.png)
+
 ## Example Usage
 
 	GAMMA = 20;
