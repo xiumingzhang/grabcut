@@ -15,9 +15,7 @@ This project implements
     }
 
 in MATLAB, and it *excludes* border matting and user editing. That is, it implements everything up to
-
 > Iterative minimisation 4. Repeat from step 1 until convergence
-
 as in Figure 3 in the original paper.
 
 ## Results
