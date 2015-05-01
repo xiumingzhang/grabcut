@@ -16,7 +16,7 @@ This project implements
 
 in MATLAB, and it *excludes* border matting and user editing. That is, it implements everything up to "Iterative minimisation 4. Repeat from step 1 until convergence" as in Figure 3 in the original paper.
 
-### Results
+## Results
 
 ![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1_cut.png)
 
@@ -30,7 +30,7 @@ in MATLAB, and it *excludes* border matting and user editing. That is, it implem
 
 ![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test6.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test6_cut.png)
 
-### Example Usage
+## Example Usage
 
 	GAMMA = 20;
 	% Inputs and parameters
@@ -39,6 +39,6 @@ in MATLAB, and it *excludes* border matting and user editing. That is, it implem
 	im_out = grabcut(im_in, GAMMA);
 	imwrite(im_out, './grabcut/results/test4_out.jpg');
 
-#### Acknowledgement
+### Acknowledgement
 
 The author would like to thank the Computer Vision Research Group at the University of Western Ontario for making their implementation of the max-flow/min-cut algorithm publicly available [here](http://vision.csd.uwo.ca/wiki/vision/upload/d/d7/Bk_matlab.zip).
