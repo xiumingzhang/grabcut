@@ -18,7 +18,7 @@ in MATLAB, and it *excludes* border matting and user editing. That is, it implem
 
 ## Results
 
-![Test 1](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1.jpg)
+![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1.jpg)![](https://raw.githubusercontent.com/xiumingzhang/grabcut/master/results/test1_cut.png)
 
 ## Example Usage
 
