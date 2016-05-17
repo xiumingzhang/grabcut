@@ -15,7 +15,7 @@ function [gmm_U, gmm_B] = update_gmm(im_1d, pix_U, k_U, pix_B, k_B)
 %
 % Author:
 %   Xiuming Zhang
-%   xiuming6zhang[on]gmail.com
+%   GitHub: xiumingzhang
 %   Dept. of ECE, National University of Singapore
 %   April 2015
 %

@@ -16,7 +16,7 @@ function [pix_U_new, E] = cut_Tu(pix_U, im_sub, alpha, gmm_U, gmm_B, pairwise)
 %
 % Author:
 %   Xiuming Zhang
-%   xiuming6zhang[on]gmail.com
+%   GitHub: xiumingzhang
 %   Dept. of ECE, National University of Singapore
 %   April 2015
 %

@@ -15,7 +15,7 @@ function [k_U, k_B] = assign_gauss(im_1d, pix_U, gmm_U, pix_B, gmm_B)
 %
 % Author:
 %   Xiuming Zhang
-%   xiuming6zhang[on]gmail.com
+%   GitHub: xiumingzhang
 %   Dept. of ECE, National University of Singapore
 %   April 2015
 %
