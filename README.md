@@ -1,5 +1,5 @@
 # grabcut
-A MATLAB implementation of GrabCut (excluding border matting and user editing)
+A MATLAB Implementation of GrabCut (Excluding Border Matting and User Editing)
 
 This project implements
 
